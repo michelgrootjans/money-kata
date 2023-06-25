@@ -1,0 +1,9 @@
+.idea
+
+#java
+.gradle
+build
+target
+
+# js/ts
+node_modules

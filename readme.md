@@ -15,11 +15,11 @@ given USD:EUR 2:1
 
 ## Getting started
 You can start working in multiple technologies:
-- java: Initialize the project with `gradle wrapper`. Open it in your favorite IDE.
-  - create `src/test/java/MoneyTest.java` and start from there
-- kotlin: Initialize the project with `gradle wrapper`. Open it in your favorite IDE.
-  - create `src/test/kotlin/MoneyTest.kt` and start from there
-- javascript: `npm install` or `yarn start`
+- java: create `src/test/java/MoneyTest.java` and start from there
+- kotlin: create `src/test/kotlin/MoneyTest.kt` and start from there
+- javascript:
+  - `npm install` or `yarn start`
   - create `money.spec.js` and start from there
-- typescript: `npm install` or `yarn start`
+- typescript:
+  - `npm install` or `yarn start`
   - create `money.spec.ts` and start from there

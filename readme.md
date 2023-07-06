@@ -1,5 +1,7 @@
 # Test-driven development by example
 
+This example was taken from **Test-Driven Development by Example** by Kent Beck
+
 ## Requirements
 
 Come up with a design that can add and multiply multiple currencies given the necessary exchange rates. For example:
